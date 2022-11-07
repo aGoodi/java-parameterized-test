@@ -1,4 +1,4 @@
-package org.gudilina;
+package main;
 
 public class SpeedLights {
 
